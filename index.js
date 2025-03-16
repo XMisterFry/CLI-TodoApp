@@ -1,3 +1,5 @@
+//IGNORE COMMENTED LEARNING CODE ON TOP
+
 // let fs =require('fs');
 
 // function wordCounter(fileName) {
